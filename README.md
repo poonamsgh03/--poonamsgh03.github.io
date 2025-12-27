@@ -18,5 +18,5 @@ End‑to‑end ITSM analytics dashboard that reduced SLA breaches by 20% and imp
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/poonamsingh  
-- **Email:** your-email@example.com# --poonamsgh03.github.io
+- **LinkedIn:** www.linkedin.com/in/poonam-singh-66a2a54  
+- **Email:** poonamsgh03@gmail.com# --poonamsgh03.github.io
