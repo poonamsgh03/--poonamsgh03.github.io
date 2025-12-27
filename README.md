@@ -1,4 +1,4 @@
-#ITSM | ServiceNow AI | Automation Portfolio
+#Poonam Singh — ITSM | ServiceNow AI | Automation Portfolio
 
 I design and implement **AI‑driven, automation‑enabled, and analytics‑backed ITSM solutions** that improve service delivery, reduce manual workload, and enhance SLA performance.
 
