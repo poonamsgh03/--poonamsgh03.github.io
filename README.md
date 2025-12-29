@@ -7,7 +7,7 @@ My work blends **ServiceNow AI Agents, machine learning, workflow automation, RP
 ## 📌 Featured Projects
 
 ### 1️⃣ AI Agent–Inspired Incident Triage Engine (Zurich Release)
-[View project details →]
+[View project details →](./projects/ai-agent-auto-resolution.md).
 
 - Simulated Predictive Intelligence using a Flow Designer scoring engine  
 - Automated KB lookup and AI-style suggestions via Contextual Search  
