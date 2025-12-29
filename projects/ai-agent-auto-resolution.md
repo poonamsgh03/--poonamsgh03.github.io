@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="../assets/AI-Agent Inspired_P1.png" width="450">
+<p align="left">
+  <img src="../assets/AI-Agent Inspired_P1.png" width="350">
 </p>
 
 ---
